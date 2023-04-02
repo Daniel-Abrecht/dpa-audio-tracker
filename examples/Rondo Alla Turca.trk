@@ -1,0 +1,191 @@
+:tune c 4 261.6
+:intonation equal
+:speed 1
+:tempo 1s
+
+# Page 1
+# line 1
+
+n h 3  1/8 >>
+n a 3  1/8 >>
+n g# 3 1/8 >>
+n a 3  1/8 >> # bar
+n c 4  1/2 >>
+
+n d 4  1/8 >>
+n c 4  1/8 >>
+n h 3  1/8 >>
+n c 4  1/8 >> # bar
+n e 4  1/2 >>
+
+n f 4  1/8 >>
+n e 4  1/8 >>
+n d# 4 1/8 >>
+n e 4  1/8 >> # bar
+n h 4  1/8 >>
+n a 4  1/8 >>
+n g# 4 1/8 >>
+n a 4  1/8 >>
+n h 4  1/8 >>
+n a 4  1/8 >>
+n g# 4 1/8 >>
+n a 4  1/8 >> # bar
+n c 5  1/4 >>
+
+n a 4  1/4 >>
+n c 5  1/4 >>
+
+# line 2
+
+n f# 4 1/32 >> # Actually g♭
+n a 4  1/32 >>
+n h 4  1/8 >>
+n f# 4 1/4
+n a 4  1/4 >>
+n e 4  1/4
+n g 4  1/4 >>
+n f# 4 1/4
+n h 4  1/4 >> # bar
+
+n f# 4 1/32 >> # Actually g♭
+n a 4  1/32 >>
+n h 4  1/8 >>
+n f# 4 1/4
+n a 4  1/4 >>
+n e 4  1/4
+n g 4  1/4 >>
+n f# 4 1/4
+n h 4  1/4 >> # bar
+
+n f# 4 1/32 >> # Actually g♭
+n a 4  1/32 >>
+n h 4  1/8 >>
+n f# 4 1/4
+n a 4  1/4 >>
+n e 4  1/4
+n g 4  1/4 >>
+n d# 4 1/4
+n f# 4 1/4 >> # bar
+
+n e 4  1/2 >>
+
+# loop point 1
+
+n c 4  1/4
+n e 4  1/4 >>
+n c# 4 1/4    # Actually d♭
+n e 4  1/4 >> # Actually f♭ # bar
+n e 4  1/4
+n g 4  1/4 >>
+n e 4  1/4
+n g 4  1/4 >>
+
+n a 4  1/8 >>
+n g 4  1/8 >>
+n f 4  1/8 >>
+n e 4  1/8 >> # bar
+n d 4  1/4
+n h 3  1/8 >> 1/8
+n g 3  1/8 >>
+
+n c 4  1/4
+n e 4  1/4 >>
+n c# 4 1/4    # Actually d♭
+n e 4  1/4 >> # Actually f♭ # bar
+
+# line 3
+
+n e 4  1/4
+n g 4  1/4 >>
+n e 4  1/4
+n g 4  1/4 >>
+
+n a 4  1/8 >>
+n g 4  1/8 >>
+n f 4  1/8 >>
+n e 4  1/8 >> # bar
+n d 4  1/4
+n h 3  1/4 >>
+
+n a 3  1/4
+n c 4  1/4 >>
+n h 3  1/4
+n d 4  1/4 >> # bar
+n c 4  1/4
+n e 4  1/4 >>
+n c 4  1/4
+n e 4  1/4 >>
+
+n f 4  1/8 >>
+n e 4  1/8 >>
+n d 4  1/8 >>
+n c 4  1/8 >> # bar
+n h 3  1/4
+n g# 3 1/8 >> 1/8
+n e 3  1/8 >>
+
+n c 4  1/4 >>
+n h 3  1/4
+n d 4  1/4 >> # bar
+n c 4  1/4
+n e 4  1/4 >>
+n c 4  1/4
+n e 4  1/4 >>
+
+n f 4  1/8 >>
+n e 4  1/8 >>
+n d 4  1/8 >>
+n c 4  1/8 >> # bar
+n h 3  1/4
+n g# 3 1/4 >>
+
+n h 3  1/8 >>
+n a 3  1/8 >>
+n g# 3 1/8 >>
+n a 3  1/8 >> # bar
+
+# line 4
+
+n c 4  1/2 >>
+
+n d 4  1/8 >>
+n c 4  1/8 >>
+n h 3  1/8 >>
+n c 4  1/8 >> # bar
+n e 4  1/2 >>
+
+n f 4  1/8 >>
+n e 4  1/8 >>
+n d# 4 1/8 >>
+n e 4  1/8 >> # bar
+n h 4  1/8 >>
+n a 4  1/8 >>
+n g# 4 1/8 >>
+n a 4  1/8 >>
+n h 4  1/8 >>
+n a 4  1/8 >>
+n g# 4 1/8 >>
+n a 4  1/8 >> # bar
+n c 5  1/4 >>
+
+n a 4  1/4 >>
+n h 4  1/4 >> # bar
+n c 5  1/4 >>
+n h 4  1/4 >>
+n a 4  1/4 >>
+n g# 4 1/4 >> # bar
+
+n a 4  1/4 >>
+n e 4  1/4 >>
+n f 4  1/4 >>
+n d 4  1/4 >> # bar
+
+# line 5
+
+n c 4  1/4 >>
+
+n h 3  1/8  >>
+n a 3  1/32 >>
+n h 3  1/32 >> # bar
+n a 3  1/4  >> # loop 2 / repeat 1
+
